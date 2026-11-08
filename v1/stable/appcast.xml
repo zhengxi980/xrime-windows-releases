@@ -1,2 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Xrime Windows</title></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Xrime Windows</title>
+    <item>
+      <title>0.17.4.r96</title>
+      <enclosure url="https://github.com/zhengxi980/xrime-windows-releases/releases/download/v0.17.4.r96/Xrime-Windows-0.17.4.r96-Setup.exe" type="application/octet-stream" length="8821759" sparkle:version="0.17.4.96" sparkle:shortVersionString="0.17.4.r96" sparkle:edSignature="qplrnhBD3tNBccLffA0hGAmCqHs1MQK8WqwV5l3UB9rgSBvqmK8OmUxJLOizVb3kM0RQc+8qDftwjUZuuDFmDQ==" />
+    </item>
+  </channel>
+</rss>
