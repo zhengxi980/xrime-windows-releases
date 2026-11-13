@@ -3,6 +3,10 @@
   <channel>
     <title>Xrime Windows</title>
     <item>
+      <title>Xrime 0.17.4.r96.2</title>
+      <enclosure url="https://github.com/zhengxi980/xrime-windows-releases/releases/download/v0.17.4.r96.2/Xrime-Windows-0.17.4.r96.2-Setup.exe" type="application/octet-stream" length="8905643" sparkle:version="0.17.4.96.2" sparkle:shortVersionString="0.17.4.r96.2" sparkle:edSignature="88RzzolL3DS5VpIlCorKWRsdVhDk6XDF6wrcu375P+HHvKhvMb+RFXtv1mFMSdTnwLZI85GRNSg5nVuPy1PTCg==" />
+    </item>
+    <item>
       <title>Xrime 0.17.4.r96.1</title>
       <enclosure url="https://github.com/zhengxi980/xrime-windows-releases/releases/download/v0.17.4.r96.1/Xrime-Windows-0.17.4.r96.1-Setup.exe" type="application/octet-stream" length="8903768" sparkle:version="0.17.4.96.1" sparkle:shortVersionString="0.17.4.r96.1" sparkle:edSignature="nJHf/YfbY4CCQdhNbErUZuCvPhwmsXy5V1Zt24GBloNUvUiJtWEWO41cXAZwpuHx/OWNKZCq9ryTHdotOuAAAg==" />
     </item>
